@@ -1,9 +1,6 @@
 # TweetPost 
 Welcome to the TweetPost - a Social Media Application! that let users create, update and delete tweets on the tweetpost platform. 
 
-## Live Demo
-You can access the live project [here](http://aqeeladil.site).
-
 <br>
 
 **To set up the project locally, run these commands:**
